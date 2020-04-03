@@ -1,4 +1,4 @@
-## Zuk Z2 Pro firmware for PostmarketOS
+## Zuk Z2 firmware for PostmarketOS
 
 Origin:
 - [zuk-devs/proprietary_vendor_zuk](https://github.com/zuk-devs/proprietary_vendor_zuk)
